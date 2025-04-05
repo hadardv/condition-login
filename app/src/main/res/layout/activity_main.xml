@@ -18,6 +18,14 @@
          />
 
     <Button
+        android:id="@+id/speakButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Speak the Phrase"
+        android:layout_marginTop="16dp"/>
+
+
+    <Button
         android:id="@+id/loginButton"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"

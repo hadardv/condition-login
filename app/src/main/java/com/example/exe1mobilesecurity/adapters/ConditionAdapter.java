@@ -54,4 +54,8 @@ public class ConditionAdapter extends RecyclerView.Adapter<ConditionAdapter.View
         conditions.get(index).setIsMet(isMet);
         notifyItemChanged(index);
     }
+
+    public List<Condition> getConditions() {
+        return conditions;
+    }
 }
