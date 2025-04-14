@@ -24,6 +24,20 @@
         android:text="Speak the Phrase"
         android:layout_marginTop="16dp"/>
 
+    <Button
+        android:id="@+id/smileButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Take a photo &amp; smile"
+        android:layout_marginTop="16dp"/>
+
+    <Button
+        android:id="@+id/passwordButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Enter Password"
+        android:layout_marginTop="16dp"/>
+
 
     <Button
         android:id="@+id/loginButton"

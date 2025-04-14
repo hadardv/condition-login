@@ -42,7 +42,12 @@ dependencies {
     implementation(libs.material)
     implementation(libs.androidx.activity)
     implementation(libs.androidx.constraintlayout)
+    implementation(libs.vision.common)
+    implementation(libs.play.services.mlkit.face.detection)
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.junit)
     androidTestImplementation(libs.androidx.espresso.core)
+    implementation(libs.facedetection)
+    implementation(libs.play.services.location)
+
 }
