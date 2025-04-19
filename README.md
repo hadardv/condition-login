@@ -11,7 +11,7 @@ Access is granted only after completing **5 challenges**.
 |  Movement Detection | Using the device's accelerometer to detect if the user moved |
 |  Smile Detection | Uses MLKit Face Detection to check if the user is smiling |
 |  Recent Photo Check | User must have taken a photo within the last hour |
-| 🎙 Voice Command | User must say the secret phrase `"סומסום יפתח"` |
+|  Voice Command | User must say the secret phrase `"סומסום יפתח"` |
 
 ---
 
