@@ -1,6 +1,6 @@
 #  Mobile Security App – Android Access Challenge
 
-A fun and creative Android security app that demonstrates conditional access using sensors, MLKit, media, and location.  
+An android security app that demonstrates conditional access using sensors, MLKit, media, and location.  
 Access is granted only after completing **5 challenges**.
 
 ##  Features
